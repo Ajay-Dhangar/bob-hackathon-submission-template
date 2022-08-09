@@ -18,6 +18,7 @@ You can read further about Lens in Veryfi's dedicated page: https://www.veryfi.c
 2. [Configuration](#configuration)
 3. [Other platforms](#other_platforms)
 4. [Get in contact with our team](#contact)
+5. [Microsoft Azure : APIs, Streamline CI/CD with Git, GitHub, GitHub Actions, Atlassian Bitbucket, Azure DevOps, Docker Hub, and Azure Container Registry.] (#Azurer_platforms)
 
 ## Veryfi Lens Checks Android Example <a name="example"></a>
 ![checks](https://user-images.githubusercontent.com/46335146/163085517-cf03bb5d-1d9e-464c-be0e-27f3ad2be617.gif)

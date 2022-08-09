@@ -18,7 +18,6 @@ You can read further about Lens in Veryfi's dedicated page: https://www.veryfi.c
 2. [Configuration](#configuration)
 3. [Other platforms](#other_platforms)
 4. [Get in contact with our team](#contact)
-5. [Microsoft Azure : APIs, Streamline CI/CD with Git, GitHub, GitHub Actions, Atlassian Bitbucket, Azure DevOps, Docker Hub, and Azure Container Registry.] (#Azurer_platforms)
 
 ## Veryfi Lens Checks Android Example <a name="example"></a>
 ![checks](https://user-images.githubusercontent.com/46335146/163085517-cf03bb5d-1d9e-464c-be0e-27f3ad2be617.gif)
@@ -52,7 +51,7 @@ You can find these examples for Lens iOS
 - [Credit Cards](https://github.com/veryfi/veryfi-lens-credit-cards-ios-demo)
 - [Business Cards](https://github.com/veryfi/veryfi-lens-business-cards-ios-demo)
 - [Checks](https://github.com/veryfi/veryfi-lens-checks-ios-demo)
-
+- [Microsoft Azure : APIs, Streamline CI/CD with Git, GitHub, GitHub Actions, Atlassian Bitbucket, Azure DevOps, Docker Hub, and Azure Container Registry.] (#Azurer_platforms)
 We also support the following wrappers for hybrid frameworks:
 - [Cordova](https://hub.veryfi.com/lens/docs/cordova/)
 - [React Native](https://hub.veryfi.com/lens/docs/react-native/)
